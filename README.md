@@ -11,4 +11,4 @@
 
 ---
 
-![](Incubator.jpeg)
+![](Incubator.jpg)
